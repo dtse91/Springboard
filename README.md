@@ -1,4 +1,4 @@
-# Springboard Data Science Mini-Projects
+# Data Science Mini-Projects
 
 Note: Please use a notebook viewer if github fails to preview any jupyter notebook [here](https://nbviewer.jupyter.org/).
 

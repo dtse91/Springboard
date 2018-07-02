@@ -19,9 +19,9 @@ Note: Please use a notebook viewer if github fails to preview any jupyter notebo
 3. [Reduce Hospital Readmissions](https://github.com/dtse91/Springboard/blob/master/Exploratory%20Data%20Analysis/hospital_readmit/sliderule_dsi_inferential_statistics_exercise_3.ipynb): In this excercise, I critique a preliminary analysis of readmissions data and recommendations for reducing the readmissions rate. I also construct a statistically sound analysis and make recommendations of my own.
 
 ### Capstone Project 1: Predicting Building Permit Issue Times
-1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb): 
+1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)
 
-1. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb): 
+2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
 
 
 

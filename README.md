@@ -2,6 +2,11 @@
 
 Note: Please use a notebook viewer if github fails to preview any jupyter notebook [here](https://nbviewer.jupyter.org/).
 
+### Capstone Project 1: Predicting Building Permit Issue Times
+1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)
+
+2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
+
 ### Data Wrangling
 1. [SQL with Mode Analytics](https://modeanalytics.com/dtse/reports/f9c91d091a0b): In this case study, I role play as an analyst responsible for triaging product and business problems as they come up. In many cases, these problems surface through key metric dashboards that executives and managers check daily. One morning, I noticed a dip in user engagement and now I am responsible for determining what caused the dip and, if appropriate, recommending solutions for the problem. At the end, I recommended a further discussion with the product manager to look closely into the mobile U.S. users who recently experienced lower email click-through rates thus leading to lower user engagement.
 
@@ -22,11 +27,4 @@ Note: Please use a notebook viewer if github fails to preview any jupyter notebo
 1. [Boston Housing Price](https://github.com/dtse91/Springboard/blob/master/Machine%20Learning/Linear%20Regression/Mini_Project_Linear_Regression.ipynb): Using the Boston Housing Price dataset where every feature is a continuous random variable, I explore the intracacies of linear regression. More specifically, I test assumptions (e.g. normality of residuals), investigate outliers/ high leverage points, calculate/extract relevant statistics (e.g. F-Statistic), and compare/contrast sklearn vs. stats model libraries.
 
 2. [Classify Gender from Heights and Weights](https://github.com/dtse91/Springboard/blob/master/Machine%20Learning/Logistic%20Regression/Mini_Project_Logistic_Regression.ipynb): Using a simple 3-column data table with height, weight and gender, I use logistic regression to classify the dependent variable gender. I develop code to cross-validate and tune hyperparameters for my model.
-
-### Capstone Project 1: Predicting Building Permit Issue Times
-1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)
-
-2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
-
-
 

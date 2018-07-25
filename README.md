@@ -21,11 +21,7 @@ Note: Please use a notebook viewer if github fails to preview any jupyter notebo
 ### Machine Learning (EDA)
 1. [Boston Housing Price](https://github.com/dtse91/Springboard/blob/master/Machine%20Learning/Linear%20Regression/Mini_Project_Linear_Regression.ipynb): Using the Boston Housing Price dataset where every feature is a continuous random variable, I explore the intracacies of linear regression. More specifically, I test assumptions (e.g. normality of residuals), investigate outliers/ high leverage points, calculate/extract relevant statistics (e.g. F-Statistic), and compare/contrast sklearn vs. stats model libraries.
 
-Note: Mini-project adapted from the Harvard CS109 Data Science Course.
-
 2. [Classify Gender from Heights and Weights](https://github.com/dtse91/Springboard/blob/master/Machine%20Learning/Logistic%20Regression/Mini_Project_Logistic_Regression.ipynb): Using a simple 3-column data table with height, weight and gender, I use logistic regression to classify the dependent variable gender. I develop code to cross-validate and tune hyperparameters for my model.
-
-Note: Mini-project adapted from the Harvard CS109 Data Science Course.
 
 ### Capstone Project 1: Predicting Building Permit Issue Times
 1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)

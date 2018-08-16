@@ -7,6 +7,8 @@ Note: Please use a notebook viewer if github fails to preview any jupyter notebo
 
 2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
 
+3. [Machine Learning](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Machine%20Learning.ipynb) 
+
 ### Data Wrangling
 1. [SQL with Mode Analytics](https://modeanalytics.com/dtse/reports/f9c91d091a0b): In this case study, I role play as an analyst responsible for triaging product and business problems as they come up. In many cases, these problems surface through key metric dashboards that executives and managers check daily. One morning, I noticed a dip in user engagement and now I am responsible for determining what caused the dip and, if appropriate, recommending solutions for the problem. At the end, I recommended a further discussion with the product manager to look closely into the mobile U.S. users who recently experienced lower email click-through rates thus leading to lower user engagement.
 

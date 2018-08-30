@@ -3,6 +3,8 @@
 Note: Please use a notebook viewer if github fails to preview any jupyter notebook [here](https://nbviewer.jupyter.org/).
 
 ### Capstone Project 1: Predicting Building Permit Issue Times
+
+**In Progress!**
 1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)
 
 2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)

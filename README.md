@@ -1,4 +1,4 @@
-# Data Science Mini-Projects
+# Data Science Projects
 
 Note: Please use a notebook viewer if github fails to preview any jupyter notebook [here](https://nbviewer.jupyter.org/).
 

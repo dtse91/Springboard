@@ -5,11 +5,23 @@ Note: Please use a notebook viewer if github fails to preview any jupyter notebo
 ### Capstone Project 1: Predicting Building Permit Issue Times
 
 **In Progress!**
+
+Building permits are oftentimes a long and less predictable item in a construction project schedule. A data-driven prediction of the issue time would benefit real estate developers, homeowners and building permit officials by ultimately reducing financial risk. To provide some guidance on building permit issue times for these permit applications, I used classification algorithms to classify permit issue times as short, medium or long time duration. I found that location, time and work/permit type are some of the most important features in predicting building permit issue times. Decision trees or random forests may be used to predict building permit issue time durations (medium or long duration) for non-trivial work items based on a 79% AUC metric; non-trivial items may include new buildings and major alterations that will change the use, egress, or occupancy of the building. For minor work (e.g. electrical work and demolition) involving single building departments, a heuristic may be used where issue times of less than a month may be expected.
+
+Presentation Materials:
+
+1. [Report](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Report.pdf)
+
+2. [Slide Deck](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Presentation.pptx) 
+
+
+Jupyter Notebook Code:
 1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Data%20Wrangling.ipynb)
 
 2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Exploratory%20Data%20Analysis%20(EDA).ipynb)
 
 3. [Machine Learning](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Machine%20Learning.ipynb) 
+
 
 ### Data Wrangling
 1. [SQL with Mode Analytics](https://modeanalytics.com/dtse/reports/f9c91d091a0b): In this case study, I role play as an analyst responsible for triaging product and business problems as they come up. In many cases, these problems surface through key metric dashboards that executives and managers check daily. One morning, I noticed a dip in user engagement and now I am responsible for determining what caused the dip and, if appropriate, recommending solutions for the problem. At the end, I recommended a further discussion with the product manager to look closely into the mobile U.S. users who recently experienced lower email click-through rates thus leading to lower user engagement.

@@ -12,7 +12,7 @@ Presentation Materials:
 
 1. [Report](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Report.pdf)
 
-2. [Slide Deck](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Presentation.pptx) 
+2. [Slide Deck](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Presentation.pdf) 
 
 
 Jupyter Notebook Code:

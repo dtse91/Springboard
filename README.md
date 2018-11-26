@@ -21,6 +21,24 @@ Jupyter Notebook Code:
 3. [Machine Learning](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Machine%20Learning.ipynb) 
 
 
+### Capstone Project 2: Ford GoBike Bike Ride Forecasting
+Forecasting overall bike rider demands to balance with bike station supply is one of many important metrics for a successful bike sharing system. The forecasting problem is framed as a time series forecasting problem where the dependent variable is the number of bike rides based on start time, and the independent variable is time (hours or days). Both linear and nonlinear models were used to forecast bike rides: an Autoregressive Integrated Moving Average (ARIMA) model and a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN). The models were assessed using walk-forward validation (rolling forecast) that outputs the model’s RMSE as a metric for evaluation. ARIMA outperformed the persistence model by ~20% for the daily dataset, and by ~60% for the hourly dataset, while the LSTM RNN was parity with the persistence model for the daily dataset, and outperformed the persistence model by ~30%. For the immediate future, it is recommended to use ARIMA models for univariate time series forecasts of aggregate bike rides, but an LSTM RNN would be beneficial at a later point when time series data is more abundant.
+
+Presentation Materials:
+
+1. [Report](https://github.com/dtse91/Springboard/blob/master/Capstone%202%20Project/Capstone%20Project%202%20Report.pdf)
+
+2. [Slide Deck](https://github.com/dtse91/Springboard/blob/master/Capstone%202%20Project/Capstone%20Project%202%20Presentation.pptx.zip) 
+
+
+Jupyter Notebook Code:
+1. [Data Wrangling](https://github.com/dtse91/Springboard/blob/master/Capstone%202%20Project/Capstone%20Project%202%20Data%20Wrangling.ipynb)
+
+2. [Exploratory Data Analysis](https://github.com/dtse91/Springboard/blob/master/Capstone%202%20Project/Capstone%20Project%202%20Exploratory%20Data%20Analysis.ipynb)
+
+3. [Machine Learning](https://github.com/dtse91/Springboard/blob/master/Capstone%202%20Project/Capstone%20Project%202%20Machine%20Learning.ipynb) 
+
+
 ### Data Wrangling
 1. [SQL with Mode Analytics](https://modeanalytics.com/dtse/reports/f9c91d091a0b): In this case study, I role play as an analyst responsible for triaging product and business problems as they come up. In many cases, these problems surface through key metric dashboards that executives and managers check daily. One morning, I noticed a dip in user engagement and now I am responsible for determining what caused the dip and, if appropriate, recommending solutions for the problem. At the end, I recommended a further discussion with the product manager to look closely into the mobile U.S. users who recently experienced lower email click-through rates thus leading to lower user engagement.
 
